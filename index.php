@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1> <b>FunGallery Welcomes you!</b></h1>
+    <h1> <b>Shifted from Master Branch to New Contact Page Branch</b></h1>
 <header>
  	<nav>
  		<center>
