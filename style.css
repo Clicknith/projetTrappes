@@ -1,0 +1,44 @@
+
+form{
+    color: aliceblue;
+    justify-content: left;
+
+}
+
+
+}
+form .form-label{
+	margin-bottom:20px;
+}
+label {
+	display:block;
+	float: none;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 30px;
+	margin-bottom:7px;
+	width: 120px;
+}
+input {
+	padding: 3px;
+    margin: 6px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+body{
+	background-image: url('images/BackgroundCss1.jpg');
+	
+}
+
+.RegisterForm {
+    background: #61BAC0;
+    
+    margin: auto;
+    border: 2px solid;
+    padding: 10px 40px;
+    width: 313px;
+    border-radius: 25px;
+}
+.Register{
+	float: right;
+}
